@@ -1,0 +1,5 @@
+ #!/usr/bin/env ruby
+
+require 'frak'
+
+puts ARGV[1..-1].join("+")
