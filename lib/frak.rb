@@ -44,10 +44,3 @@ class Frak
     History.new(@type, @query)
   end
 end
-
-
-
-
-
-
-
